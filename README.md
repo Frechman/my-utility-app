@@ -5,6 +5,10 @@ mvn clean package
 
 java -jar target/MyUtility.jar -readDrives
 ```
+#### Available command 
++ `-readDrives`
++ `-findFile absolute/path fileName`
++ `-editFile absolute/path fileName`
 
 ### Task description
 
